@@ -1,0 +1,71 @@
+
+
+* {
+   padding: 2px;
+   
+}
+   
+body{
+    background-color: rgb(231, 224, 198);
+}
+
+img{
+    width: 20rem;
+}
+
+
+header{
+    margin: 2rem;
+    text-align: center;
+    background-color: antiquewhite;
+    /* padding: 0.1rem; */
+    font-size: 0.1rem;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+
+h1{
+    margin: 2rem;
+    text-align: center;
+    background-color: antiquewhite;
+    /* padding: 5rem; */
+    font-size: 5rem;
+}
+
+section{
+    margin: 2rem;
+    background-color: aliceblue;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+h2{
+    font-size: 2rem;
+}
+
+input{
+    width: 2rem;
+    border-radius: 10px;
+}
+
+::placeholder{
+    font-size: 0.8rem;
+}
+
+button{
+    font-size: 3rem;
+    border-radius: 10rem;
+    background-color: bisque;
+    border-color: azure;
+    cursor: pointer;
+}
+
+section p{
+    font-size: 3rem;
+}
